@@ -1,0 +1,156 @@
+{
+  "communities": {
+    "0": [
+      "cercado_de_lima_cercado_de_lima",
+      "mali_mali",
+      "museo_de_arte_italiano_museo_de_arte_italiano",
+      "museo_jose_carlos_mariategui_museo_jose_carlos_mariategui",
+      "museo_nacional_de_la_cultura_peruana_museo_nacional_de_la_cultura_peruana"
+    ],
+    "1": [
+      "lima_lima",
+      "mnaahp_mnaahp",
+      "peru_peru",
+      "pueblo_libre_pueblo_libre",
+      "tourup_home"
+    ],
+    "2": [
+      "lugar_de_la_memoria_lum_lugar_de_la_memoria_lum",
+      "miraflores_miraflores",
+      "museo_de_sitio_pucllana_museo_de_sitio_pucllana"
+    ],
+    "3": [
+      "ate_vitarte_ate_vitarte",
+      "museo_de_sitio_puruchuco_museo_de_sitio_puruchuco"
+    ],
+    "4": [
+      "barranco_barranco",
+      "mac_lima_mac_lima"
+    ],
+    "5": [
+      "lurin_lurin",
+      "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac"
+    ]
+  },
+  "cohesion": {
+    "0": 0.4,
+    "1": 0.5,
+    "2": 0.6666666666666666,
+    "3": 1.0,
+    "4": 1.0,
+    "5": 1.0
+  },
+  "gods": [
+    {
+      "id": "lima_lima",
+      "label": "Lima",
+      "degree": 8
+    },
+    {
+      "id": "cercado_de_lima_cercado_de_lima",
+      "label": "Cercado de Lima",
+      "degree": 5
+    },
+    {
+      "id": "miraflores_miraflores",
+      "label": "Miraflores",
+      "degree": 3
+    },
+    {
+      "id": "tourup_home",
+      "label": "TourUP",
+      "degree": 2
+    },
+    {
+      "id": "peru_peru",
+      "label": "Peru",
+      "degree": 2
+    },
+    {
+      "id": "ate_vitarte_ate_vitarte",
+      "label": "Ate Vitarte",
+      "degree": 2
+    },
+    {
+      "id": "barranco_barranco",
+      "label": "Barranco",
+      "degree": 2
+    },
+    {
+      "id": "lurin_lurin",
+      "label": "Lurin",
+      "degree": 2
+    },
+    {
+      "id": "pueblo_libre_pueblo_libre",
+      "label": "Pueblo Libre",
+      "degree": 2
+    },
+    {
+      "id": "museo_de_sitio_puruchuco_museo_de_sitio_puruchuco",
+      "label": "Museo de Sitio Puruchuco",
+      "degree": 1
+    }
+  ],
+  "surprises": [
+    {
+      "source": "TourUP",
+      "target": "Lima",
+      "source_files": [
+        "TourUP.md",
+        "wiki/Peru/Lima.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; peripheral node `TourUP` unexpectedly reaches hub `Lima`"
+    },
+    {
+      "source": "TourUP",
+      "target": "Peru",
+      "source_files": [
+        "TourUP.md",
+        "wiki/Peru.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "Ate Vitarte",
+      "target": "Lima",
+      "source_files": [
+        "wiki/Peru/Lima/Ate Vitarte/Ate Vitarte.md",
+        "wiki/Peru/Lima.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities; peripheral node `Ate Vitarte` unexpectedly reaches hub `Lima`"
+    },
+    {
+      "source": "Lima",
+      "target": "Barranco",
+      "source_files": [
+        "wiki/Peru/Lima.md",
+        "wiki/Peru/Lima/Barranco/Barranco.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities; peripheral node `Barranco` unexpectedly reaches hub `Lima`"
+    },
+    {
+      "source": "Lima",
+      "target": "Lurin",
+      "source_files": [
+        "wiki/Peru/Lima.md",
+        "wiki/Peru/Lima/Lurin/Lurin.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities; peripheral node `Lurin` unexpectedly reaches hub `Lima`"
+    }
+  ],
+  "tokens": {
+    "input": 16084,
+    "output": 3189
+  }
+}
