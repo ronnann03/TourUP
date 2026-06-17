@@ -1,54 +1,158 @@
 {
   "communities": {
     "0": [
+      "act_charlas_y_ciclos_de_lectura_sobre_pensamiento_soci",
+      "act_miercoles_de_filmoteca_ciclo_nora_de_izcue",
+      "act_noche_mali_visitas_mediadas_y_actividades_especial",
+      "act_nueva_exposicion_en_sala_1_primer_piso",
+      "act_recorrido_virtual_en_visitavirtual_cultura_pe",
+      "act_recorridos_por_la_casa_museo_y_exposiciones_tempor",
+      "act_talleres_ligados_a_festividades_y_danzas_tradicion",
+      "act_talleres_visitas_guiadas_ferias_y_presentaciones_a",
+      "act_visitas_guiadas_a_coleccion_de_arte_italiano",
+      "act_visitas_guiadas_sobre_arte_popular_y_diversidad_cu",
+      "cercado_de_lima",
+      "mali",
+      "museo_de_arte_italiano",
+      "museo_jose_carlos_mariategui",
+      "museo_nacional_de_la_cultura_peruana"
+    ],
+    "1": [
+      "act_80_anos_de_naciones_unidas",
+      "act_anudando_la_tierra_con_pancho_basurco",
+      "act_cine_piru_un_viaje_de_oro",
+      "act_clausura_del_festival_de_cine_al_este_2026",
+      "act_fiesta_de_la_musica_2026_orquesta_de_camara_unm",
+      "act_memorias_afectivas_husares_de_junin",
+      "act_musica_y_poesia_con_jose_maria_salazar",
+      "act_musica_y_poesia_con_leda_quintana",
+      "act_nico_en_el_barrio_con_silvia_bando_landa",
+      "act_presentacion_libro_nico_de_silvia_bando_landa",
+      "act_shiringa_genocidio_y_resistencia_en_la_amazonia",
+      "act_sobreviviendo_en_azul_y_tierra",
+      "act_tupac_amaru_el_ultimo_inca_de_federico_garcia",
+      "lugar_de_la_memoria_lum"
+    ],
+    "2": [
+      "ate_vitarte_ate_vitarte",
+      "barranco_barranco",
+      "lima_lima",
+      "lugar_de_la_memoria_lum_lugar_de_la_memoria_lum",
+      "lurin_lurin",
+      "mac_lima_mac_lima",
+      "miraflores_miraflores",
+      "mnaahp_mnaahp",
+      "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac",
+      "museo_de_sitio_pucllana_museo_de_sitio_pucllana",
+      "museo_de_sitio_puruchuco_museo_de_sitio_puruchuco",
+      "peru_peru",
+      "pueblo_libre_pueblo_libre",
+      "tourup_home"
+    ],
+    "3": [
+      "act_experiencia_sonora_con_instrumentos_originales_de_",
+      "act_talleres_para_familias_y_experiencias_sensoriales",
+      "act_visitas_guiadas_a_salas_de_arqueologia",
+      "act_visitas_guiadas_al_complejo_arqueologico",
+      "barranco",
+      "lima",
+      "miraflores",
+      "mnaahp",
+      "museo_de_sitio_pucllana",
+      "peru",
+      "pueblo_libre"
+    ],
+    "4": [
+      "act_contemporaneo_1_materia_alquimia_dispositivo_flujo",
+      "act_el_peru_en_clave_caretas_75_anos_de_historia_fotog",
+      "act_semana_de_la_educacion_artistica_2026",
+      "act_unsex_me_la_deconstruccion_de_lady_macbeth",
+      "mac_lima"
+    ],
+    "5": [
       "cercado_de_lima_cercado_de_lima",
       "mali_mali",
       "museo_de_arte_italiano_museo_de_arte_italiano",
       "museo_jose_carlos_mariategui_museo_jose_carlos_mariategui",
       "museo_nacional_de_la_cultura_peruana_museo_nacional_de_la_cultura_peruana"
     ],
-    "1": [
-      "lima_lima",
-      "mnaahp_mnaahp",
-      "peru_peru",
-      "pueblo_libre_pueblo_libre",
-      "tourup_home"
+    "6": [
+      "act_recorridos_guiados_y_talleres_de_ceramica_y_tejido",
+      "act_tramas_andinas_ciencia_paisaje_arqueologia_y_saber",
+      "lurin",
+      "museo_de_sitio_pachacamac"
     ],
-    "2": [
-      "lugar_de_la_memoria_lum_lugar_de_la_memoria_lum",
-      "miraflores_miraflores",
-      "museo_de_sitio_pucllana_museo_de_sitio_pucllana"
+    "7": [
+      "act_talleres_de_educacion_patrimonial_para_ninos_y_jov",
+      "act_visitas_guiadas_por_el_complejo_inca",
+      "ate_vitarte",
+      "museo_de_sitio_puruchuco"
     ],
-    "3": [
-      "ate_vitarte_ate_vitarte",
-      "museo_de_sitio_puruchuco_museo_de_sitio_puruchuco"
+    "8": [
+      "agents_curator"
     ],
-    "4": [
-      "barranco_barranco",
-      "mac_lima_mac_lima"
+    "9": [
+      "agents_qa"
     ],
-    "5": [
-      "lurin_lurin",
-      "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac"
+    "10": [
+      "agents_suggester"
+    ],
+    "11": [
+      "crear_actividades"
+    ],
+    "12": [
+      "obsidian_app"
     ]
   },
   "cohesion": {
-    "0": 0.4,
-    "1": 0.5,
-    "2": 0.6666666666666666,
-    "3": 1.0,
-    "4": 1.0,
-    "5": 1.0
+    "0": 0.13333333333333333,
+    "1": 0.14285714285714285,
+    "2": 0.15384615384615385,
+    "3": 0.18181818181818182,
+    "4": 0.4,
+    "5": 0.4,
+    "6": 0.5,
+    "7": 0.5,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0
   },
   "gods": [
+    {
+      "id": "lugar_de_la_memoria_lum",
+      "label": "Lugar de la Memoria LUM",
+      "degree": 14
+    },
     {
       "id": "lima_lima",
       "label": "Lima",
       "degree": 8
     },
     {
+      "id": "lima",
+      "label": "Lima",
+      "degree": 7
+    },
+    {
       "id": "cercado_de_lima_cercado_de_lima",
       "label": "Cercado de Lima",
+      "degree": 5
+    },
+    {
+      "id": "cercado_de_lima",
+      "label": "Cercado de Lima",
+      "degree": 5
+    },
+    {
+      "id": "mac_lima",
+      "label": "MAC Lima",
+      "degree": 5
+    },
+    {
+      "id": "mali",
+      "label": "MALI",
       "degree": 5
     },
     {
@@ -57,42 +161,39 @@
       "degree": 3
     },
     {
-      "id": "tourup_home",
-      "label": "TourUP",
-      "degree": 2
+      "id": "miraflores",
+      "label": "Miraflores",
+      "degree": 3
     },
     {
-      "id": "peru_peru",
-      "label": "Peru",
-      "degree": 2
-    },
-    {
-      "id": "ate_vitarte_ate_vitarte",
-      "label": "Ate Vitarte",
-      "degree": 2
-    },
-    {
-      "id": "barranco_barranco",
-      "label": "Barranco",
-      "degree": 2
-    },
-    {
-      "id": "lurin_lurin",
-      "label": "Lurin",
-      "degree": 2
-    },
-    {
-      "id": "pueblo_libre_pueblo_libre",
-      "label": "Pueblo Libre",
-      "degree": 2
-    },
-    {
-      "id": "museo_de_sitio_puruchuco_museo_de_sitio_puruchuco",
+      "id": "museo_de_sitio_puruchuco",
       "label": "Museo de Sitio Puruchuco",
-      "degree": 1
+      "degree": 3
     }
   ],
   "surprises": [
+    {
+      "source": "Ate Vitarte",
+      "target": "Lima",
+      "source_files": [
+        "wiki/Peru/Lima/Ate Vitarte/Museo de Sitio Puruchuco/Actividades.md",
+        "CLAUDE.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Ate Vitarte` unexpectedly reaches hub `Lima`"
+    },
+    {
+      "source": "Lurin",
+      "target": "Lima",
+      "source_files": [
+        "wiki/Peru/Lima/Lurin/Museo de Sitio Pachacamac/Actividades.md",
+        "CLAUDE.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Lurin` unexpectedly reaches hub `Lima`"
+    },
     {
       "source": "TourUP",
       "target": "Lima",
@@ -105,52 +206,30 @@
       "why": "connects across different repos/directories; peripheral node `TourUP` unexpectedly reaches hub `Lima`"
     },
     {
-      "source": "TourUP",
-      "target": "Peru",
-      "source_files": [
-        "TourUP.md",
-        "wiki/Peru.md"
-      ],
-      "confidence": "EXTRACTED",
-      "relation": "references",
-      "why": "connects across different repos/directories"
-    },
-    {
-      "source": "Ate Vitarte",
+      "source": "Barranco",
       "target": "Lima",
       "source_files": [
-        "wiki/Peru/Lima/Ate Vitarte/Ate Vitarte.md",
-        "wiki/Peru/Lima.md"
+        "wiki/Peru/Lima/Barranco/MAC Lima/Actividades.md",
+        "CLAUDE.md"
       ],
       "confidence": "EXTRACTED",
       "relation": "references",
-      "why": "bridges separate communities; peripheral node `Ate Vitarte` unexpectedly reaches hub `Lima`"
+      "why": "connects across different repos/directories; peripheral node `Barranco` unexpectedly reaches hub `Lima`"
     },
     {
-      "source": "Lima",
-      "target": "Barranco",
+      "source": "Cercado de Lima",
+      "target": "Lima",
       "source_files": [
-        "wiki/Peru/Lima.md",
-        "wiki/Peru/Lima/Barranco/Barranco.md"
+        "wiki/Peru/Lima/Cercado de Lima/MALI/Actividades.md",
+        "CLAUDE.md"
       ],
       "confidence": "EXTRACTED",
       "relation": "references",
-      "why": "bridges separate communities; peripheral node `Barranco` unexpectedly reaches hub `Lima`"
-    },
-    {
-      "source": "Lima",
-      "target": "Lurin",
-      "source_files": [
-        "wiki/Peru/Lima.md",
-        "wiki/Peru/Lima/Lurin/Lurin.md"
-      ],
-      "confidence": "EXTRACTED",
-      "relation": "references",
-      "why": "bridges separate communities; peripheral node `Lurin` unexpectedly reaches hub `Lima`"
+      "why": "connects across different repos/directories; bridges separate communities"
     }
   ],
   "tokens": {
-    "input": 16084,
-    "output": 3189
+    "input": 22214,
+    "output": 10407
   }
 }

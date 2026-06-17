@@ -1,1 +1,127 @@
-{}
+{
+  ".obsidian/app.json": {
+    "mtime": 1781649289.1566086,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  ".obsidian/appearance.json": {
+    "mtime": 1781649289.1610675,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  ".obsidian/core-plugins.json": {
+    "mtime": 1781649288.712605,
+    "ast_hash": "7c877bea49eaeabb100563bd157b9051",
+    "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
+  },
+  ".obsidian/graph.json": {
+    "mtime": 1781649417.75,
+    "ast_hash": "99ca6b9650759d99c4c9d8eefd659a48",
+    "semantic_hash": "99ca6b9650759d99c4c9d8eefd659a48"
+  },
+  ".obsidian/workspace.json": {
+    "mtime": 1781654283.5141122,
+    "ast_hash": "2aceb7ddc302a122bff2f36186ab9ccf",
+    "semantic_hash": "2aceb7ddc302a122bff2f36186ab9ccf"
+  },
+  "crear_actividades.py": {
+    "mtime": 1781654236.9834514,
+    "ast_hash": "01a1f8025488edcabd9af651b4ace13f",
+    "semantic_hash": "01a1f8025488edcabd9af651b4ace13f"
+  },
+  "TourUP.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "964c30ea070a4c347f75640019aea5e3",
+    "semantic_hash": "964c30ea070a4c347f75640019aea5e3"
+  },
+  "wiki/Peru.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "4fd58e92a100a457142d3603762472c8",
+    "semantic_hash": "4fd58e92a100a457142d3603762472c8"
+  },
+  "wiki/Peru/Lima.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "b8740da1f150fbfe5f5a0a9f0503c424",
+    "semantic_hash": "b8740da1f150fbfe5f5a0a9f0503c424"
+  },
+  "wiki/Peru/Lima/Ate Vitarte/Ate Vitarte.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "b8a40fe9e2133d4a2f4d59e55f80b2b8",
+    "semantic_hash": "b8a40fe9e2133d4a2f4d59e55f80b2b8"
+  },
+  "wiki/Peru/Lima/Ate Vitarte/Museo de Sitio Puruchuco/Museo de Sitio Puruchuco.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "cbf091c0af21875dbd98a859c1bfe489",
+    "semantic_hash": "cbf091c0af21875dbd98a859c1bfe489"
+  },
+  "wiki/Peru/Lima/Barranco/Barranco.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "df5c653972f337b2afd43901d6138998",
+    "semantic_hash": "df5c653972f337b2afd43901d6138998"
+  },
+  "wiki/Peru/Lima/Barranco/MAC Lima/MAC Lima.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "25853e286be8e6dccfbcf7e6ea14dbcc",
+    "semantic_hash": "25853e286be8e6dccfbcf7e6ea14dbcc"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Cercado de Lima.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "0c0e4ea2baeee316a632dc6673363008",
+    "semantic_hash": "0c0e4ea2baeee316a632dc6673363008"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/MALI/MALI.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "b6aff96b3b882cfc0633e54d0d45dbb1",
+    "semantic_hash": "b6aff96b3b882cfc0633e54d0d45dbb1"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Museo Jose Carlos Mariategui.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "cdd0545471c0b7902d8c0ac12f2d044d",
+    "semantic_hash": "cdd0545471c0b7902d8c0ac12f2d044d"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Museo Nacional de la Cultura Peruana.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "e1b7e5046e030508673cd02793da10f8",
+    "semantic_hash": "e1b7e5046e030508673cd02793da10f8"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Museo de Arte Italiano.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "f070b3902a31d98de9f33a198a53d08d",
+    "semantic_hash": "f070b3902a31d98de9f33a198a53d08d"
+  },
+  "wiki/Peru/Lima/Lurin/Lurin.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "2c794a076d5ed3bcf041b2566cd153af",
+    "semantic_hash": "2c794a076d5ed3bcf041b2566cd153af"
+  },
+  "wiki/Peru/Lima/Lurin/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "22e08ed992884fa63bf74a73116ee96c",
+    "semantic_hash": "22e08ed992884fa63bf74a73116ee96c"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Lugar de la Memoria LUM.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "cfff2b2e54da2b224d4a75a1f0434925",
+    "semantic_hash": "cfff2b2e54da2b224d4a75a1f0434925"
+  },
+  "wiki/Peru/Lima/Miraflores/Miraflores.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "c2ce039a3d3910f443e55fe1bfb8755b",
+    "semantic_hash": "c2ce039a3d3910f443e55fe1bfb8755b"
+  },
+  "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Museo de Sitio Pucllana.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "9ee275ce59304d785ff873aec6731e89",
+    "semantic_hash": "9ee275ce59304d785ff873aec6731e89"
+  },
+  "wiki/Peru/Lima/Pueblo Libre/MNAAHP/MNAAHP.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "05c3c846c34029feb89863a0f0d21444",
+    "semantic_hash": "05c3c846c34029feb89863a0f0d21444"
+  },
+  "wiki/Peru/Lima/Pueblo Libre/Pueblo Libre.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "056d15a63b9bb29c9c6745ad8f88d491",
+    "semantic_hash": "056d15a63b9bb29c9c6745ad8f88d491"
+  }
+}
