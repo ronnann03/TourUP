@@ -14,280 +14,8 @@
       "contributor": null,
       "community": 2,
       "norm_label": "tourup",
-      "community_name": "Community 1",
+      "community_name": "Community 2",
       "id": "tourup_home"
-    },
-    {
-      "label": "Peru",
-      "file_type": "document",
-      "source_file": "wiki/Peru.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "peru",
-      "community_name": "Community 1",
-      "id": "peru_peru"
-    },
-    {
-      "label": "Lima",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "lima",
-      "community_name": "Community 1",
-      "id": "lima_lima"
-    },
-    {
-      "label": "Ate Vitarte",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Ate Vitarte/Ate Vitarte.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "ate vitarte",
-      "community_name": "Community 3",
-      "id": "ate_vitarte_ate_vitarte"
-    },
-    {
-      "label": "Barranco",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Barranco/Barranco.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "barranco",
-      "community_name": "Community 4",
-      "id": "barranco_barranco"
-    },
-    {
-      "label": "Cercado de Lima",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/Cercado de Lima.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 5,
-      "norm_label": "cercado de lima",
-      "community_name": "Community 0",
-      "id": "cercado_de_lima_cercado_de_lima"
-    },
-    {
-      "label": "Lurin",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Lurin/Lurin.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "lurin",
-      "community_name": "Community 5",
-      "id": "lurin_lurin"
-    },
-    {
-      "label": "Miraflores",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Miraflores/Miraflores.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "miraflores",
-      "community_name": "Community 2",
-      "id": "miraflores_miraflores"
-    },
-    {
-      "label": "Pueblo Libre",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Pueblo Libre/Pueblo Libre.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "pueblo libre",
-      "community_name": "Community 1",
-      "id": "pueblo_libre_pueblo_libre"
-    },
-    {
-      "label": "Museo de Sitio Puruchuco",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Ate Vitarte/Museo de Sitio Puruchuco/Museo de Sitio Puruchuco.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "museo de sitio puruchuco",
-      "community_name": "Community 3",
-      "id": "museo_de_sitio_puruchuco_museo_de_sitio_puruchuco"
-    },
-    {
-      "label": "MAC Lima",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Barranco/MAC Lima/MAC Lima.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "mac lima",
-      "community_name": "Community 4",
-      "id": "mac_lima_mac_lima"
-    },
-    {
-      "label": "MALI",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/MALI/MALI.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 5,
-      "norm_label": "mali",
-      "community_name": "Community 0",
-      "id": "mali_mali"
-    },
-    {
-      "label": "Museo de Arte Italiano",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Museo de Arte Italiano.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 5,
-      "norm_label": "museo de arte italiano",
-      "community_name": "Community 0",
-      "id": "museo_de_arte_italiano_museo_de_arte_italiano"
-    },
-    {
-      "label": "Museo Jose Carlos Mariategui",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Museo Jose Carlos Mariategui.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 5,
-      "norm_label": "museo jose carlos mariategui",
-      "community_name": "Community 0",
-      "id": "museo_jose_carlos_mariategui_museo_jose_carlos_mariategui"
-    },
-    {
-      "label": "Museo Nacional de la Cultura Peruana",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Museo Nacional de la Cultura Peruana.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 5,
-      "norm_label": "museo nacional de la cultura peruana",
-      "community_name": "Community 0",
-      "id": "museo_nacional_de_la_cultura_peruana_museo_nacional_de_la_cultura_peruana"
-    },
-    {
-      "label": "Museo de Sitio Pachacamac",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Lurin/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "museo de sitio pachacamac",
-      "community_name": "Community 5",
-      "id": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac"
-    },
-    {
-      "label": "Lugar de la Memoria LUM",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Lugar de la Memoria LUM.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "lugar de la memoria lum",
-      "community_name": "Community 2",
-      "id": "lugar_de_la_memoria_lum_lugar_de_la_memoria_lum"
-    },
-    {
-      "label": "Museo de Sitio Pucllana",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Museo de Sitio Pucllana.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "museo de sitio pucllana",
-      "community_name": "Community 2",
-      "id": "museo_de_sitio_pucllana_museo_de_sitio_pucllana"
-    },
-    {
-      "label": "MNAAHP",
-      "file_type": "document",
-      "source_file": "wiki/Peru/Lima/Pueblo Libre/MNAAHP/MNAAHP.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "mnaahp",
-      "community_name": "Community 1",
-      "id": "mnaahp_mnaahp"
-    },
-    {
-      "label": "app.json",
-      "file_type": "code",
-      "source_file": ".obsidian/app.json",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "obsidian_app",
-      "community": 12,
-      "norm_label": "app.json"
-    },
-    {
-      "label": "crear_actividades.py",
-      "file_type": "code",
-      "source_file": "crear_actividades.py",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "crear_actividades",
-      "community": 11,
-      "norm_label": "crear_actividades.py"
     },
     {
       "label": "Curator Agent",
@@ -298,9 +26,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_curator",
-      "community": 8,
-      "norm_label": "curator agent"
+      "community": 9,
+      "norm_label": "curator agent",
+      "community_name": "Community 8",
+      "id": "agents_curator"
     },
     {
       "label": "QA Agent",
@@ -311,9 +40,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_qa",
-      "community": 9,
-      "norm_label": "qa agent"
+      "community": 10,
+      "norm_label": "qa agent",
+      "community_name": "Community 9",
+      "id": "agents_qa"
     },
     {
       "label": "Suggester Agent",
@@ -324,9 +54,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_suggester",
-      "community": 10,
-      "norm_label": "suggester agent"
+      "community": 11,
+      "norm_label": "suggester agent",
+      "community_name": "Community 10",
+      "id": "agents_suggester"
     },
     {
       "label": "Peru",
@@ -337,9 +68,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "peru",
-      "community": 3,
-      "norm_label": "peru"
+      "community": 0,
+      "norm_label": "peru",
+      "community_name": "Community 3",
+      "id": "peru"
     },
     {
       "label": "Lima",
@@ -350,9 +82,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "lima",
-      "community": 3,
-      "norm_label": "lima"
+      "community": 0,
+      "norm_label": "lima",
+      "community_name": "Community 3",
+      "id": "lima"
     },
     {
       "label": "Ate Vitarte",
@@ -363,9 +96,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ate_vitarte",
-      "community": 7,
-      "norm_label": "ate vitarte"
+      "community": 0,
+      "norm_label": "ate vitarte",
+      "community_name": "Community 7",
+      "id": "ate_vitarte"
     },
     {
       "label": "Barranco",
@@ -376,9 +110,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "barranco",
-      "community": 3,
-      "norm_label": "barranco"
+      "community": 0,
+      "norm_label": "barranco",
+      "community_name": "Community 3",
+      "id": "barranco"
     },
     {
       "label": "Cercado de Lima",
@@ -389,9 +124,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cercado_de_lima",
-      "community": 0,
-      "norm_label": "cercado de lima"
+      "community": 3,
+      "norm_label": "cercado de lima",
+      "community_name": "Community 0",
+      "id": "cercado_de_lima"
     },
     {
       "label": "Lurin",
@@ -402,9 +138,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "lurin",
-      "community": 6,
-      "norm_label": "lurin"
+      "community": 0,
+      "norm_label": "lurin",
+      "community_name": "Community 6",
+      "id": "lurin"
     },
     {
       "label": "Miraflores",
@@ -415,9 +152,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "miraflores",
-      "community": 3,
-      "norm_label": "miraflores"
+      "community": 4,
+      "norm_label": "miraflores",
+      "community_name": "Community 3",
+      "id": "miraflores"
     },
     {
       "label": "Pueblo Libre",
@@ -428,9 +166,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "pueblo_libre",
-      "community": 3,
-      "norm_label": "pueblo libre"
+      "community": 0,
+      "norm_label": "pueblo libre",
+      "community_name": "Community 3",
+      "id": "pueblo_libre"
     },
     {
       "label": "Museo de Sitio Puruchuco",
@@ -441,9 +180,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "museo_de_sitio_puruchuco",
-      "community": 7,
-      "norm_label": "museo de sitio puruchuco"
+      "community": 0,
+      "norm_label": "museo de sitio puruchuco",
+      "community_name": "Community 7",
+      "id": "museo_de_sitio_puruchuco"
     },
     {
       "label": "MAC Lima",
@@ -454,9 +194,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "mac_lima",
-      "community": 4,
-      "norm_label": "mac lima"
+      "community": 7,
+      "norm_label": "mac lima",
+      "community_name": "Community 4",
+      "id": "mac_lima"
     },
     {
       "label": "MALI",
@@ -467,9 +208,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "mali",
-      "community": 0,
-      "norm_label": "mali"
+      "community": 3,
+      "norm_label": "mali",
+      "community_name": "Community 0",
+      "id": "mali"
     },
     {
       "label": "Museo de Arte Italiano",
@@ -480,9 +222,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "museo_de_arte_italiano",
-      "community": 0,
-      "norm_label": "museo de arte italiano"
+      "community": 3,
+      "norm_label": "museo de arte italiano",
+      "community_name": "Community 0",
+      "id": "museo_de_arte_italiano"
     },
     {
       "label": "Museo Jose Carlos Mariategui",
@@ -493,9 +236,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "museo_jose_carlos_mariategui",
-      "community": 0,
-      "norm_label": "museo jose carlos mariategui"
+      "community": 5,
+      "norm_label": "museo jose carlos mariategui",
+      "community_name": "Community 0",
+      "id": "museo_jose_carlos_mariategui"
     },
     {
       "label": "Museo Nacional de la Cultura Peruana",
@@ -506,9 +250,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "museo_nacional_de_la_cultura_peruana",
-      "community": 0,
-      "norm_label": "museo nacional de la cultura peruana"
+      "community": 6,
+      "norm_label": "museo nacional de la cultura peruana",
+      "community_name": "Community 0",
+      "id": "museo_nacional_de_la_cultura_peruana"
     },
     {
       "label": "Museo de Sitio Pachacamac",
@@ -519,9 +264,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "museo_de_sitio_pachacamac",
-      "community": 6,
-      "norm_label": "museo de sitio pachacamac"
+      "community": 0,
+      "norm_label": "museo de sitio pachacamac",
+      "community_name": "Community 6",
+      "id": "museo_de_sitio_pachacamac"
     },
     {
       "label": "Lugar de la Memoria LUM",
@@ -532,9 +278,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "lugar_de_la_memoria_lum",
       "community": 1,
-      "norm_label": "lugar de la memoria lum"
+      "norm_label": "lugar de la memoria lum",
+      "community_name": "Community 1",
+      "id": "lugar_de_la_memoria_lum"
     },
     {
       "label": "Museo de Sitio Pucllana",
@@ -545,9 +292,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "museo_de_sitio_pucllana",
-      "community": 3,
-      "norm_label": "museo de sitio pucllana"
+      "community": 4,
+      "norm_label": "museo de sitio pucllana",
+      "community_name": "Community 3",
+      "id": "museo_de_sitio_pucllana"
     },
     {
       "label": "MNAAHP",
@@ -558,9 +306,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "mnaahp",
-      "community": 3,
-      "norm_label": "mnaahp"
+      "community": 0,
+      "norm_label": "mnaahp",
+      "community_name": "Community 3",
+      "id": "mnaahp"
     },
     {
       "label": "Talleres de educacion patrimonial para ninos y jovenes",
@@ -571,9 +320,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_talleres_de_educacion_patrimonial_para_ninos_y_jov",
-      "community": 7,
-      "norm_label": "talleres de educacion patrimonial para ninos y jovenes"
+      "community": 0,
+      "norm_label": "talleres de educacion patrimonial para ninos y jovenes",
+      "community_name": "Community 7",
+      "id": "act_talleres_de_educacion_patrimonial_para_ninos_y_jov"
     },
     {
       "label": "Visitas guiadas por el complejo inca",
@@ -584,9 +334,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_visitas_guiadas_por_el_complejo_inca",
-      "community": 7,
-      "norm_label": "visitas guiadas por el complejo inca"
+      "community": 0,
+      "norm_label": "visitas guiadas por el complejo inca",
+      "community_name": "Community 7",
+      "id": "act_visitas_guiadas_por_el_complejo_inca"
     },
     {
       "label": "Contemporaneo 1. Materia Alquimia Dispositivo Flujo",
@@ -597,9 +348,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_contemporaneo_1_materia_alquimia_dispositivo_flujo",
-      "community": 4,
-      "norm_label": "contemporaneo 1. materia alquimia dispositivo flujo"
+      "community": 7,
+      "norm_label": "contemporaneo 1. materia alquimia dispositivo flujo",
+      "community_name": "Community 4",
+      "id": "act_contemporaneo_1_materia_alquimia_dispositivo_flujo"
     },
     {
       "label": "El Peru en clave CARETAS. 75 anos de historia fotografica",
@@ -610,9 +362,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_el_peru_en_clave_caretas_75_anos_de_historia_fotog",
-      "community": 4,
-      "norm_label": "el peru en clave caretas. 75 anos de historia fotografica"
+      "community": 7,
+      "norm_label": "el peru en clave caretas. 75 anos de historia fotografica",
+      "community_name": "Community 4",
+      "id": "act_el_peru_en_clave_caretas_75_anos_de_historia_fotog"
     },
     {
       "label": "Semana de la Educacion Artistica 2026",
@@ -623,9 +376,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_semana_de_la_educacion_artistica_2026",
-      "community": 4,
-      "norm_label": "semana de la educacion artistica 2026"
+      "community": 7,
+      "norm_label": "semana de la educacion artistica 2026",
+      "community_name": "Community 4",
+      "id": "act_semana_de_la_educacion_artistica_2026"
     },
     {
       "label": "Unsex me La deconstruccion de Lady Macbeth",
@@ -636,9 +390,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_unsex_me_la_deconstruccion_de_lady_macbeth",
-      "community": 4,
-      "norm_label": "unsex me la deconstruccion de lady macbeth"
+      "community": 7,
+      "norm_label": "unsex me la deconstruccion de lady macbeth",
+      "community_name": "Community 4",
+      "id": "act_unsex_me_la_deconstruccion_de_lady_macbeth"
     },
     {
       "label": "Miercoles de Filmoteca Ciclo Nora de Izcue",
@@ -649,9 +404,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_miercoles_de_filmoteca_ciclo_nora_de_izcue",
-      "community": 0,
-      "norm_label": "miercoles de filmoteca ciclo nora de izcue"
+      "community": 3,
+      "norm_label": "miercoles de filmoteca ciclo nora de izcue",
+      "community_name": "Community 0",
+      "id": "act_miercoles_de_filmoteca_ciclo_nora_de_izcue"
     },
     {
       "label": "Noche MALI visitas mediadas y actividades especiales",
@@ -662,9 +418,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_noche_mali_visitas_mediadas_y_actividades_especial",
-      "community": 0,
-      "norm_label": "noche mali visitas mediadas y actividades especiales"
+      "community": 3,
+      "norm_label": "noche mali visitas mediadas y actividades especiales",
+      "community_name": "Community 0",
+      "id": "act_noche_mali_visitas_mediadas_y_actividades_especial"
     },
     {
       "label": "Nueva exposicion en Sala 1 primer piso",
@@ -675,9 +432,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_nueva_exposicion_en_sala_1_primer_piso",
-      "community": 0,
-      "norm_label": "nueva exposicion en sala 1 primer piso"
+      "community": 3,
+      "norm_label": "nueva exposicion en sala 1 primer piso",
+      "community_name": "Community 0",
+      "id": "act_nueva_exposicion_en_sala_1_primer_piso"
     },
     {
       "label": "Talleres visitas guiadas ferias y presentaciones artisticas",
@@ -688,9 +446,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_talleres_visitas_guiadas_ferias_y_presentaciones_a",
-      "community": 0,
-      "norm_label": "talleres visitas guiadas ferias y presentaciones artisticas"
+      "community": 3,
+      "norm_label": "talleres visitas guiadas ferias y presentaciones artisticas",
+      "community_name": "Community 0",
+      "id": "act_talleres_visitas_guiadas_ferias_y_presentaciones_a"
     },
     {
       "label": "Recorrido virtual en visitavirtual.cultura.pe",
@@ -701,9 +460,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_recorrido_virtual_en_visitavirtual_cultura_pe",
-      "community": 0,
-      "norm_label": "recorrido virtual en visitavirtual.cultura.pe"
+      "community": 3,
+      "norm_label": "recorrido virtual en visitavirtual.cultura.pe",
+      "community_name": "Community 0",
+      "id": "act_recorrido_virtual_en_visitavirtual_cultura_pe"
     },
     {
       "label": "Visitas guiadas a coleccion de arte italiano",
@@ -714,9 +474,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_visitas_guiadas_a_coleccion_de_arte_italiano",
-      "community": 0,
-      "norm_label": "visitas guiadas a coleccion de arte italiano"
+      "community": 3,
+      "norm_label": "visitas guiadas a coleccion de arte italiano",
+      "community_name": "Community 0",
+      "id": "act_visitas_guiadas_a_coleccion_de_arte_italiano"
     },
     {
       "label": "Charlas y ciclos de lectura sobre pensamiento social",
@@ -727,9 +488,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_charlas_y_ciclos_de_lectura_sobre_pensamiento_soci",
-      "community": 0,
-      "norm_label": "charlas y ciclos de lectura sobre pensamiento social"
+      "community": 5,
+      "norm_label": "charlas y ciclos de lectura sobre pensamiento social",
+      "community_name": "Community 0",
+      "id": "act_charlas_y_ciclos_de_lectura_sobre_pensamiento_soci"
     },
     {
       "label": "Recorridos por la casa-museo y exposiciones temporales",
@@ -740,9 +502,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_recorridos_por_la_casa_museo_y_exposiciones_tempor",
-      "community": 0,
-      "norm_label": "recorridos por la casa-museo y exposiciones temporales"
+      "community": 5,
+      "norm_label": "recorridos por la casa-museo y exposiciones temporales",
+      "community_name": "Community 0",
+      "id": "act_recorridos_por_la_casa_museo_y_exposiciones_tempor"
     },
     {
       "label": "Talleres ligados a festividades y danzas tradicionales",
@@ -753,9 +516,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_talleres_ligados_a_festividades_y_danzas_tradicion",
-      "community": 0,
-      "norm_label": "talleres ligados a festividades y danzas tradicionales"
+      "community": 6,
+      "norm_label": "talleres ligados a festividades y danzas tradicionales",
+      "community_name": "Community 0",
+      "id": "act_talleres_ligados_a_festividades_y_danzas_tradicion"
     },
     {
       "label": "Visitas guiadas sobre arte popular y diversidad cultural",
@@ -766,9 +530,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_visitas_guiadas_sobre_arte_popular_y_diversidad_cu",
-      "community": 0,
-      "norm_label": "visitas guiadas sobre arte popular y diversidad cultural"
+      "community": 6,
+      "norm_label": "visitas guiadas sobre arte popular y diversidad cultural",
+      "community_name": "Community 0",
+      "id": "act_visitas_guiadas_sobre_arte_popular_y_diversidad_cu"
     },
     {
       "label": "Recorridos guiados y talleres de ceramica y tejido",
@@ -779,9 +544,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_recorridos_guiados_y_talleres_de_ceramica_y_tejido",
-      "community": 6,
-      "norm_label": "recorridos guiados y talleres de ceramica y tejido"
+      "community": 0,
+      "norm_label": "recorridos guiados y talleres de ceramica y tejido",
+      "community_name": "Community 6",
+      "id": "act_recorridos_guiados_y_talleres_de_ceramica_y_tejido"
     },
     {
       "label": "Tramas andinas. Ciencia paisaje arqueologia y saberes ancestrales",
@@ -792,9 +558,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_tramas_andinas_ciencia_paisaje_arqueologia_y_saber",
-      "community": 6,
-      "norm_label": "tramas andinas. ciencia paisaje arqueologia y saberes ancestrales"
+      "community": 0,
+      "norm_label": "tramas andinas. ciencia paisaje arqueologia y saberes ancestrales",
+      "community_name": "Community 6",
+      "id": "act_tramas_andinas_ciencia_paisaje_arqueologia_y_saber"
     },
     {
       "label": "80 anos de Naciones Unidas",
@@ -805,9 +572,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_80_anos_de_naciones_unidas",
       "community": 1,
-      "norm_label": "80 anos de naciones unidas"
+      "norm_label": "80 anos de naciones unidas",
+      "community_name": "Community 1",
+      "id": "act_80_anos_de_naciones_unidas"
     },
     {
       "label": "Anudando la tierra con Pancho Basurco",
@@ -818,9 +586,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_anudando_la_tierra_con_pancho_basurco",
       "community": 1,
-      "norm_label": "anudando la tierra con pancho basurco"
+      "norm_label": "anudando la tierra con pancho basurco",
+      "community_name": "Community 1",
+      "id": "act_anudando_la_tierra_con_pancho_basurco"
     },
     {
       "label": "Cine Piru. Un viaje de oro",
@@ -831,9 +600,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_cine_piru_un_viaje_de_oro",
       "community": 1,
-      "norm_label": "cine piru. un viaje de oro"
+      "norm_label": "cine piru. un viaje de oro",
+      "community_name": "Community 1",
+      "id": "act_cine_piru_un_viaje_de_oro"
     },
     {
       "label": "Clausura del Festival de Cine Al Este 2026",
@@ -844,9 +614,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_clausura_del_festival_de_cine_al_este_2026",
       "community": 1,
-      "norm_label": "clausura del festival de cine al este 2026"
+      "norm_label": "clausura del festival de cine al este 2026",
+      "community_name": "Community 1",
+      "id": "act_clausura_del_festival_de_cine_al_este_2026"
     },
     {
       "label": "Fiesta de la Musica 2026 Orquesta de Camara UNM",
@@ -857,9 +628,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_fiesta_de_la_musica_2026_orquesta_de_camara_unm",
       "community": 1,
-      "norm_label": "fiesta de la musica 2026 orquesta de camara unm"
+      "norm_label": "fiesta de la musica 2026 orquesta de camara unm",
+      "community_name": "Community 1",
+      "id": "act_fiesta_de_la_musica_2026_orquesta_de_camara_unm"
     },
     {
       "label": "Memorias afectivas Husares de Junin",
@@ -870,9 +642,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_memorias_afectivas_husares_de_junin",
       "community": 1,
-      "norm_label": "memorias afectivas husares de junin"
+      "norm_label": "memorias afectivas husares de junin",
+      "community_name": "Community 1",
+      "id": "act_memorias_afectivas_husares_de_junin"
     },
     {
       "label": "Musica y poesia con Jose Maria Salazar",
@@ -883,9 +656,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_musica_y_poesia_con_jose_maria_salazar",
       "community": 1,
-      "norm_label": "musica y poesia con jose maria salazar"
+      "norm_label": "musica y poesia con jose maria salazar",
+      "community_name": "Community 1",
+      "id": "act_musica_y_poesia_con_jose_maria_salazar"
     },
     {
       "label": "Musica y poesia con Leda Quintana",
@@ -896,9 +670,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_musica_y_poesia_con_leda_quintana",
       "community": 1,
-      "norm_label": "musica y poesia con leda quintana"
+      "norm_label": "musica y poesia con leda quintana",
+      "community_name": "Community 1",
+      "id": "act_musica_y_poesia_con_leda_quintana"
     },
     {
       "label": "Nico en el barrio con Silvia Bando Landa",
@@ -909,9 +684,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_nico_en_el_barrio_con_silvia_bando_landa",
       "community": 1,
-      "norm_label": "nico en el barrio con silvia bando landa"
+      "norm_label": "nico en el barrio con silvia bando landa",
+      "community_name": "Community 1",
+      "id": "act_nico_en_el_barrio_con_silvia_bando_landa"
     },
     {
       "label": "Presentacion libro Nico de Silvia Bando Landa",
@@ -922,9 +698,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_presentacion_libro_nico_de_silvia_bando_landa",
       "community": 1,
-      "norm_label": "presentacion libro nico de silvia bando landa"
+      "norm_label": "presentacion libro nico de silvia bando landa",
+      "community_name": "Community 1",
+      "id": "act_presentacion_libro_nico_de_silvia_bando_landa"
     },
     {
       "label": "Shiringa. Genocidio y resistencia en la Amazonia",
@@ -935,9 +712,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_shiringa_genocidio_y_resistencia_en_la_amazonia",
       "community": 1,
-      "norm_label": "shiringa. genocidio y resistencia en la amazonia"
+      "norm_label": "shiringa. genocidio y resistencia en la amazonia",
+      "community_name": "Community 1",
+      "id": "act_shiringa_genocidio_y_resistencia_en_la_amazonia"
     },
     {
       "label": "Sobreviviendo en azul y tierra",
@@ -948,9 +726,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_sobreviviendo_en_azul_y_tierra",
       "community": 1,
-      "norm_label": "sobreviviendo en azul y tierra"
+      "norm_label": "sobreviviendo en azul y tierra",
+      "community_name": "Community 1",
+      "id": "act_sobreviviendo_en_azul_y_tierra"
     },
     {
       "label": "Tupac Amaru El Ultimo Inca de Federico Garcia",
@@ -961,9 +740,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_tupac_amaru_el_ultimo_inca_de_federico_garcia",
       "community": 1,
-      "norm_label": "tupac amaru el ultimo inca de federico garcia"
+      "norm_label": "tupac amaru el ultimo inca de federico garcia",
+      "community_name": "Community 1",
+      "id": "act_tupac_amaru_el_ultimo_inca_de_federico_garcia"
     },
     {
       "label": "Experiencia sonora con instrumentos originales de mas de 1500 anos",
@@ -974,9 +754,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_experiencia_sonora_con_instrumentos_originales_de_",
-      "community": 3,
-      "norm_label": "experiencia sonora con instrumentos originales de mas de 1500 anos"
+      "community": 4,
+      "norm_label": "experiencia sonora con instrumentos originales de mas de 1500 anos",
+      "community_name": "Community 3",
+      "id": "act_experiencia_sonora_con_instrumentos_originales_de_"
     },
     {
       "label": "Visitas guiadas al complejo arqueologico",
@@ -987,9 +768,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_visitas_guiadas_al_complejo_arqueologico",
-      "community": 3,
-      "norm_label": "visitas guiadas al complejo arqueologico"
+      "community": 4,
+      "norm_label": "visitas guiadas al complejo arqueologico",
+      "community_name": "Community 3",
+      "id": "act_visitas_guiadas_al_complejo_arqueologico"
     },
     {
       "label": "Talleres para familias y experiencias sensoriales",
@@ -1000,9 +782,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_talleres_para_familias_y_experiencias_sensoriales",
-      "community": 3,
-      "norm_label": "talleres para familias y experiencias sensoriales"
+      "community": 0,
+      "norm_label": "talleres para familias y experiencias sensoriales",
+      "community_name": "Community 3",
+      "id": "act_talleres_para_familias_y_experiencias_sensoriales"
     },
     {
       "label": "Visitas guiadas a salas de arqueologia",
@@ -1013,9 +796,166 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "act_visitas_guiadas_a_salas_de_arqueologia",
+      "community": 0,
+      "norm_label": "visitas guiadas a salas de arqueologia",
+      "community_name": "Community 3",
+      "id": "act_visitas_guiadas_a_salas_de_arqueologia"
+    },
+    {
+      "label": "Actividades — Museo de Arte Italiano",
+      "file_type": "document",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_museo_de_arte_italiano",
       "community": 3,
-      "norm_label": "visitas guiadas a salas de arqueologia"
+      "norm_label": "actividades — museo de arte italiano"
+    },
+    {
+      "label": "Visita Guiada — Museo de Arte Italiano",
+      "file_type": "concept",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_visita_guiada_italiano",
+      "community": 3,
+      "norm_label": "visita guiada — museo de arte italiano"
+    },
+    {
+      "label": "Recorrido Virtual — Museo de Arte Italiano",
+      "file_type": "concept",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_recorrido_virtual_italiano",
+      "community": 3,
+      "norm_label": "recorrido virtual — museo de arte italiano"
+    },
+    {
+      "label": "Actividades — Museo Jose Carlos Mariategui",
+      "file_type": "document",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_museo_jose_carlos_mariategui",
+      "community": 5,
+      "norm_label": "actividades — museo jose carlos mariategui"
+    },
+    {
+      "label": "Recorrido — Museo Jose Carlos Mariategui",
+      "file_type": "concept",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_recorrido_mariategui",
+      "community": 5,
+      "norm_label": "recorrido — museo jose carlos mariategui"
+    },
+    {
+      "label": "Charla — Museo Jose Carlos Mariategui",
+      "file_type": "concept",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_charla_mariategui",
+      "community": 5,
+      "norm_label": "charla — museo jose carlos mariategui"
+    },
+    {
+      "label": "Actividades — Museo Nacional de la Cultura Peruana",
+      "file_type": "document",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_museo_nacional_de_la_cultura_peruana",
+      "community": 6,
+      "norm_label": "actividades — museo nacional de la cultura peruana"
+    },
+    {
+      "label": "Visita Guiada — Museo Nacional de la Cultura Peruana",
+      "file_type": "concept",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_visita_guiada_cultura_peruana",
+      "community": 6,
+      "norm_label": "visita guiada — museo nacional de la cultura peruana"
+    },
+    {
+      "label": "Taller — Museo Nacional de la Cultura Peruana",
+      "file_type": "concept",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_taller_cultura_peruana",
+      "community": 6,
+      "norm_label": "taller — museo nacional de la cultura peruana"
+    },
+    {
+      "label": "Actividades — Museo de Sitio Pucllana",
+      "file_type": "document",
+      "source_file": "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_museo_de_sitio_pucllana",
+      "community": 4,
+      "norm_label": "actividades — museo de sitio pucllana"
+    },
+    {
+      "label": "Experiencia Sonora — Museo de Sitio Pucllana",
+      "file_type": "concept",
+      "source_file": "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_experiencia_sonora_pucllana",
+      "community": 4,
+      "norm_label": "experiencia sonora — museo de sitio pucllana"
+    },
+    {
+      "label": "Visita Guiada — Museo de Sitio Pucllana",
+      "file_type": "concept",
+      "source_file": "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Actividades.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "actividades_visita_guiada_pucllana",
+      "community": 4,
+      "norm_label": "visita guiada — museo de sitio pucllana"
     }
   ],
   "links": [
@@ -1023,197 +963,7 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "TourUP.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "tourup_home",
-      "target": "lima_lima"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "TourUP.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "tourup_home",
-      "target": "peru_peru"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "lima_lima",
-      "target": "peru_peru"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Ate Vitarte/Ate Vitarte.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "ate_vitarte_ate_vitarte",
-      "target": "lima_lima"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "lima_lima",
-      "target": "barranco_barranco"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "lima_lima",
-      "target": "cercado_de_lima_cercado_de_lima"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "lima_lima",
-      "target": "lurin_lurin"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "lima_lima",
-      "target": "miraflores_miraflores"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "lima_lima",
-      "target": "pueblo_libre_pueblo_libre"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Ate Vitarte/Ate Vitarte.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "ate_vitarte_ate_vitarte",
-      "target": "museo_de_sitio_puruchuco_museo_de_sitio_puruchuco"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Barranco/Barranco.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "barranco_barranco",
-      "target": "mac_lima_mac_lima"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/Cercado de Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "cercado_de_lima_cercado_de_lima",
-      "target": "mali_mali"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/Cercado de Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "cercado_de_lima_cercado_de_lima",
-      "target": "museo_de_arte_italiano_museo_de_arte_italiano"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/Cercado de Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "cercado_de_lima_cercado_de_lima",
-      "target": "museo_jose_carlos_mariategui_museo_jose_carlos_mariategui"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/Cercado de Lima.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "cercado_de_lima_cercado_de_lima",
-      "target": "museo_nacional_de_la_cultura_peruana_museo_nacional_de_la_cultura_peruana"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Lurin/Lurin.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "lurin_lurin",
-      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Miraflores/Miraflores.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "miraflores_miraflores",
-      "target": "lugar_de_la_memoria_lum_lugar_de_la_memoria_lum"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Miraflores/Miraflores.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "miraflores_miraflores",
-      "target": "museo_de_sitio_pucllana_museo_de_sitio_pucllana"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Pueblo Libre/Pueblo Libre.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "pueblo_libre_pueblo_libre",
-      "target": "mnaahp_mnaahp"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "CLAUDE.md",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Actividades.md",
       "source_location": null,
       "weight": 1.0,
       "source": "lima",
@@ -1243,7 +993,7 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Cercado de Lima/MALI/Actividades.md",
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Actividades.md",
       "source_location": null,
       "weight": 1.0,
       "source": "cercado_de_lima",
@@ -1263,7 +1013,7 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Actividades.md",
+      "source_file": "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Actividades.md",
       "source_location": null,
       "weight": 1.0,
       "source": "miraflores",
@@ -1298,6 +1048,16 @@
       "weight": 1.0,
       "source": "mac_lima",
       "target": "barranco"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_museo_de_arte_italiano",
+      "target": "cercado_de_lima"
     },
     {
       "relation": "references",
@@ -1348,6 +1108,16 @@
       "weight": 1.0,
       "source": "museo_de_sitio_pachacamac",
       "target": "lurin"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_museo_de_sitio_pucllana",
+      "target": "miraflores"
     },
     {
       "relation": "references",
@@ -1503,6 +1273,36 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_museo_de_arte_italiano",
+      "target": "museo_de_arte_italiano"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_recorrido_virtual_italiano",
+      "target": "museo_de_arte_italiano"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_visita_guiada_italiano",
+      "target": "museo_de_arte_italiano"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Act - charlas-y-ciclos-de-lectura-sobre-pensamiento-soci.md",
       "source_location": null,
       "weight": 1.0,
@@ -1517,6 +1317,36 @@
       "source_location": null,
       "weight": 1.0,
       "source": "act_recorridos_por_la_casa_museo_y_exposiciones_tempor",
+      "target": "museo_jose_carlos_mariategui"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_charla_mariategui",
+      "target": "museo_jose_carlos_mariategui"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_museo_jose_carlos_mariategui",
+      "target": "museo_jose_carlos_mariategui"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_recorrido_mariategui",
       "target": "museo_jose_carlos_mariategui"
     },
     {
@@ -1537,6 +1367,36 @@
       "source_location": null,
       "weight": 1.0,
       "source": "act_visitas_guiadas_sobre_arte_popular_y_diversidad_cu",
+      "target": "museo_nacional_de_la_cultura_peruana"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_museo_nacional_de_la_cultura_peruana",
+      "target": "museo_nacional_de_la_cultura_peruana"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_taller_cultura_peruana",
+      "target": "museo_nacional_de_la_cultura_peruana"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_visita_guiada_cultura_peruana",
       "target": "museo_nacional_de_la_cultura_peruana"
     },
     {
@@ -1710,6 +1570,36 @@
       "target": "museo_de_sitio_pucllana"
     },
     {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_experiencia_sonora_pucllana",
+      "target": "museo_de_sitio_pucllana"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_museo_de_sitio_pucllana",
+      "target": "museo_de_sitio_pucllana"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Actividades.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "actividades_visita_guiada_pucllana",
+      "target": "museo_de_sitio_pucllana"
+    },
+    {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
@@ -1731,5 +1621,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "0c5c4e012614a1364a4aba663ddb4fded11896fc"
+  "built_at_commit": "aebec40f3264591ddc3aa56eabf2a43046b8dec5"
 }

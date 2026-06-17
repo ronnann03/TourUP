@@ -123,5 +123,270 @@
     "mtime": 1781665256.0,
     "ast_hash": "056d15a63b9bb29c9c6745ad8f88d491",
     "semantic_hash": "056d15a63b9bb29c9c6745ad8f88d491"
+  },
+  "AGENTS.md": {
+    "mtime": 1781651267.9513357,
+    "ast_hash": "c9a77863897f2bfec5e41f5d37dab8c1",
+    "semantic_hash": "c9a77863897f2bfec5e41f5d37dab8c1"
+  },
+  "CLAUDE.md": {
+    "mtime": 1781649922.6583345,
+    "ast_hash": "388099a25330a3756ae9e125bcaa90e7",
+    "semantic_hash": "388099a25330a3756ae9e125bcaa90e7"
+  },
+  "wiki/Peru/Lima/Ate Vitarte/Museo de Sitio Puruchuco/Act - talleres-de-educacion-patrimonial-para-ninos-y-jov.md": {
+    "mtime": 1781654259.3312492,
+    "ast_hash": "030b1d5ad10e2088cc9a83b3874937ec",
+    "semantic_hash": "030b1d5ad10e2088cc9a83b3874937ec"
+  },
+  "wiki/Peru/Lima/Ate Vitarte/Museo de Sitio Puruchuco/Act - visitas-guiadas-por-el-complejo-inca.md": {
+    "mtime": 1781654259.3307295,
+    "ast_hash": "8bd08562cfda453073a401ba0c6a0008",
+    "semantic_hash": "8bd08562cfda453073a401ba0c6a0008"
+  },
+  "wiki/Peru/Lima/Ate Vitarte/Museo de Sitio Puruchuco/Actividades.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "e991d6d407bdf77a14bb755f78583647",
+    "semantic_hash": "e991d6d407bdf77a14bb755f78583647"
+  },
+  "wiki/Peru/Lima/Ate Vitarte/Museo de Sitio Puruchuco/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "38fd1cfe5bb0c62dfb332ffb3468b4cd",
+    "semantic_hash": "38fd1cfe5bb0c62dfb332ffb3468b4cd"
+  },
+  "wiki/Peru/Lima/Barranco/MAC Lima/Act - contemporaneo-1-materia-alquimia-dispositivo-flujo.md": {
+    "mtime": 1781654259.3476532,
+    "ast_hash": "2d1369a0e943d7b08c0f77520bdcbdee",
+    "semantic_hash": "2d1369a0e943d7b08c0f77520bdcbdee"
+  },
+  "wiki/Peru/Lima/Barranco/MAC Lima/Act - el-peru-en-clave-caretas-75-anos-de-historia-fotog.md": {
+    "mtime": 1781654259.3476532,
+    "ast_hash": "9a4044e76ad074d239f6b04d9992f1da",
+    "semantic_hash": "9a4044e76ad074d239f6b04d9992f1da"
+  },
+  "wiki/Peru/Lima/Barranco/MAC Lima/Act - semana-de-la-educacion-artistica-2026.md": {
+    "mtime": 1781654259.349214,
+    "ast_hash": "d21808ed5e0ddc65e6b7467b9e82118c",
+    "semantic_hash": "d21808ed5e0ddc65e6b7467b9e82118c"
+  },
+  "wiki/Peru/Lima/Barranco/MAC Lima/Act - unsex-me-la-deconstruccion-de-lady-macbeth.md": {
+    "mtime": 1781654259.3461268,
+    "ast_hash": "0ae13ffff9b10a61c9405f2b75e1d229",
+    "semantic_hash": "0ae13ffff9b10a61c9405f2b75e1d229"
+  },
+  "wiki/Peru/Lima/Barranco/MAC Lima/Actividades.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "2c227f44f0307f85de08edbbbfc2b9e5",
+    "semantic_hash": "2c227f44f0307f85de08edbbbfc2b9e5"
+  },
+  "wiki/Peru/Lima/Barranco/MAC Lima/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "eb726633f0c75fd03ce2028c39ddf649",
+    "semantic_hash": "eb726633f0c75fd03ce2028c39ddf649"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/MALI/Act - miercoles-de-filmoteca-ciclo-nora-de-izcue.md": {
+    "mtime": 1781654259.3404348,
+    "ast_hash": "e432630bc232c766f9f82a17d29123a1",
+    "semantic_hash": "e432630bc232c766f9f82a17d29123a1"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/MALI/Act - noche-mali-visitas-mediadas-y-actividades-especial.md": {
+    "mtime": 1781654259.3415506,
+    "ast_hash": "b70fe6591e443a8571ebdfb2988c9a80",
+    "semantic_hash": "b70fe6591e443a8571ebdfb2988c9a80"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/MALI/Act - nueva-exposicion-en-sala-1-primer-piso.md": {
+    "mtime": 1781654259.3415506,
+    "ast_hash": "c5f1f9e810553e345d20ee4457b03c12",
+    "semantic_hash": "c5f1f9e810553e345d20ee4457b03c12"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/MALI/Act - talleres-visitas-guiadas-ferias-y-presentaciones-a.md": {
+    "mtime": 1781654259.3440933,
+    "ast_hash": "09e2a10f207481273fc073a9d764f56c",
+    "semantic_hash": "09e2a10f207481273fc073a9d764f56c"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/MALI/Actividades.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "6befc36269b135f42b6bcaed76dca924",
+    "semantic_hash": "6befc36269b135f42b6bcaed76dca924"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/MALI/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "b776bc5730291527c664a81d106a085a",
+    "semantic_hash": "b776bc5730291527c664a81d106a085a"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Act - charlas-y-ciclos-de-lectura-sobre-pensamiento-soci.md": {
+    "mtime": 1781654259.338904,
+    "ast_hash": "45ab191fe5b980cfed56f5f892ebccf0",
+    "semantic_hash": "45ab191fe5b980cfed56f5f892ebccf0"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Act - recorridos-por-la-casa-museo-y-exposiciones-tempor.md": {
+    "mtime": 1781654259.3373845,
+    "ast_hash": "f111600f198e8ef20c34c6387d24175c",
+    "semantic_hash": "f111600f198e8ef20c34c6387d24175c"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo Jose Carlos Mariategui/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "18add093fa24ffd8d7d57302e0fd7984",
+    "semantic_hash": "18add093fa24ffd8d7d57302e0fd7984"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Act - talleres-ligados-a-festividades-y-danzas-tradicion.md": {
+    "mtime": 1781654259.3358543,
+    "ast_hash": "0a803e56c3715bd6c28f2dc40eff3b79",
+    "semantic_hash": "0a803e56c3715bd6c28f2dc40eff3b79"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Act - visitas-guiadas-sobre-arte-popular-y-diversidad-cu.md": {
+    "mtime": 1781654259.3358543,
+    "ast_hash": "34def6a66bf4df908fea2c3d02eed45d",
+    "semantic_hash": "34def6a66bf4df908fea2c3d02eed45d"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo Nacional de la Cultura Peruana/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "e70abdd6ea28841f41bb4aec83cf97bf",
+    "semantic_hash": "e70abdd6ea28841f41bb4aec83cf97bf"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Act - recorrido-virtual-en-visitavirtual-cultura-pe.md": {
+    "mtime": 1781654259.3343005,
+    "ast_hash": "5cdfcca4610538ff54d40fad141ecf4f",
+    "semantic_hash": "5cdfcca4610538ff54d40fad141ecf4f"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Act - visitas-guiadas-a-coleccion-de-arte-italiano.md": {
+    "mtime": 1781654259.33278,
+    "ast_hash": "b503bc4ac6355433c6bf119fbeb2f0f7",
+    "semantic_hash": "b503bc4ac6355433c6bf119fbeb2f0f7"
+  },
+  "wiki/Peru/Lima/Cercado de Lima/Museo de Arte Italiano/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "6ddc810f1f680b9e73450b7891edd2a9",
+    "semantic_hash": "6ddc810f1f680b9e73450b7891edd2a9"
+  },
+  "wiki/Peru/Lima/Lurin/Museo de Sitio Pachacamac/Act - recorridos-guiados-y-talleres-de-ceramica-y-tejido.md": {
+    "mtime": 1781654259.3270736,
+    "ast_hash": "b1577f61758404f548bd7ef75790d9f4",
+    "semantic_hash": "b1577f61758404f548bd7ef75790d9f4"
+  },
+  "wiki/Peru/Lima/Lurin/Museo de Sitio Pachacamac/Act - tramas-andinas-ciencia-paisaje-arqueologia-y-saber.md": {
+    "mtime": 1781654259.325553,
+    "ast_hash": "23bfe43fc5c0c1a25c240e1b260bb712",
+    "semantic_hash": "23bfe43fc5c0c1a25c240e1b260bb712"
+  },
+  "wiki/Peru/Lima/Lurin/Museo de Sitio Pachacamac/Actividades.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "436a34ac32db89eb3243c3255a73a42c",
+    "semantic_hash": "436a34ac32db89eb3243c3255a73a42c"
+  },
+  "wiki/Peru/Lima/Lurin/Museo de Sitio Pachacamac/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "9d62395a3ed5e108985a55f68d8be641",
+    "semantic_hash": "9d62395a3ed5e108985a55f68d8be641"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - 80-anos-de-naciones-unidas.md": {
+    "mtime": 1781654259.3128073,
+    "ast_hash": "4c04bbfd0bce563058bf4ba1726a4fba",
+    "semantic_hash": "4c04bbfd0bce563058bf4ba1726a4fba"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - anudando-la-tierra-con-pancho-basurco.md": {
+    "mtime": 1781654259.3158562,
+    "ast_hash": "77efbd97727d50db25a6c1518a6c72d7",
+    "semantic_hash": "77efbd97727d50db25a6c1518a6c72d7"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - cine-piru-un-viaje-de-oro.md": {
+    "mtime": 1781654259.3066776,
+    "ast_hash": "4dc9418e4aa1941ec739d0af8055c152",
+    "semantic_hash": "4dc9418e4aa1941ec739d0af8055c152"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - clausura-del-festival-de-cine-al-este-2026.md": {
+    "mtime": 1781654259.3215132,
+    "ast_hash": "c71f04c7cbe3a58bdcbfee6d0cb04bc4",
+    "semantic_hash": "c71f04c7cbe3a58bdcbfee6d0cb04bc4"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - fiesta-de-la-musica-2026-orquesta-de-camara-unm.md": {
+    "mtime": 1781654259.3173745,
+    "ast_hash": "dd8ed83599d9a23cf2e9f6869777e7eb",
+    "semantic_hash": "dd8ed83599d9a23cf2e9f6869777e7eb"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - memorias-afectivas-husares-de-junin.md": {
+    "mtime": 1781654259.3082128,
+    "ast_hash": "46a971ae6171c290ac2327fce76eef74",
+    "semantic_hash": "46a971ae6171c290ac2327fce76eef74"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - musica-y-poesia-con-jose-maria-salazar.md": {
+    "mtime": 1781654259.3082128,
+    "ast_hash": "42ed7e0ca775ffd372abd7a8d5b6186e",
+    "semantic_hash": "42ed7e0ca775ffd372abd7a8d5b6186e"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - musica-y-poesia-con-leda-quintana.md": {
+    "mtime": 1781654259.3173745,
+    "ast_hash": "06d8bf4cdaca0b1dd586a5e9d7be2e48",
+    "semantic_hash": "06d8bf4cdaca0b1dd586a5e9d7be2e48"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - nico-en-el-barrio-con-silvia-bando-landa.md": {
+    "mtime": 1781654259.3112693,
+    "ast_hash": "53a36356d740dffec0c881226e3a27c4",
+    "semantic_hash": "53a36356d740dffec0c881226e3a27c4"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - presentacion-libro-nico-de-silvia-bando-landa.md": {
+    "mtime": 1781654259.3128073,
+    "ast_hash": "b6af24a448c9beea36f60c15a9b87257",
+    "semantic_hash": "b6af24a448c9beea36f60c15a9b87257"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - shiringa-genocidio-y-resistencia-en-la-amazonia.md": {
+    "mtime": 1781654259.314339,
+    "ast_hash": "51b3eba34d2f30f891a0a6639a6bd299",
+    "semantic_hash": "51b3eba34d2f30f891a0a6639a6bd299"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - sobreviviendo-en-azul-y-tierra.md": {
+    "mtime": 1781654259.309752,
+    "ast_hash": "5050504c944188d02154ca3aa09082a6",
+    "semantic_hash": "5050504c944188d02154ca3aa09082a6"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Act - tupac-amaru-el-ultimo-inca-de-federico-garcia.md": {
+    "mtime": 1781654259.3188908,
+    "ast_hash": "03e00da4c326eb2bd7632edaa1e65db7",
+    "semantic_hash": "03e00da4c326eb2bd7632edaa1e65db7"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Actividades.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "55cb88c5391db8acc116ddb2b4699614",
+    "semantic_hash": "55cb88c5391db8acc116ddb2b4699614"
+  },
+  "wiki/Peru/Lima/Miraflores/Lugar de la Memoria LUM/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "5ee7066e1f1409aa3f8b1dec424e549e",
+    "semantic_hash": "5ee7066e1f1409aa3f8b1dec424e549e"
+  },
+  "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Act - experiencia-sonora-con-instrumentos-originales-de-.md": {
+    "mtime": 1781654259.3270736,
+    "ast_hash": "acc01493f6f91e3f02ea820587a221b6",
+    "semantic_hash": "acc01493f6f91e3f02ea820587a221b6"
+  },
+  "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Act - visitas-guiadas-al-complejo-arqueologico.md": {
+    "mtime": 1781654259.3286824,
+    "ast_hash": "e999c56783778030825d560286696902",
+    "semantic_hash": "e999c56783778030825d560286696902"
+  },
+  "wiki/Peru/Lima/Miraflores/Museo de Sitio Pucllana/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "b9bbe6b99573c355c7e36e91d8e58fd8",
+    "semantic_hash": "b9bbe6b99573c355c7e36e91d8e58fd8"
+  },
+  "wiki/Peru/Lima/Pueblo Libre/MNAAHP/Act - talleres-para-familias-y-experiencias-sensoriales.md": {
+    "mtime": 1781654259.3240373,
+    "ast_hash": "7fbb8e52dbefa820e4b742fa5b29651a",
+    "semantic_hash": "7fbb8e52dbefa820e4b742fa5b29651a"
+  },
+  "wiki/Peru/Lima/Pueblo Libre/MNAAHP/Act - visitas-guiadas-a-salas-de-arqueologia.md": {
+    "mtime": 1781654259.3230298,
+    "ast_hash": "0d01152885dc3505fcc4aebd72631de8",
+    "semantic_hash": "0d01152885dc3505fcc4aebd72631de8"
+  },
+  "wiki/Peru/Lima/Pueblo Libre/MNAAHP/Actividades.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "e4830280c3de41ee8eb3ee7508479ef2",
+    "semantic_hash": "e4830280c3de41ee8eb3ee7508479ef2"
+  },
+  "wiki/Peru/Lima/Pueblo Libre/MNAAHP/Salas.md": {
+    "mtime": 1781665256.0,
+    "ast_hash": "f85d5ff5a6926b99e42311aab96e9a93",
+    "semantic_hash": "f85d5ff5a6926b99e42311aab96e9a93"
   }
 }

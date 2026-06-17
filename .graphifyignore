@@ -1,0 +1,4 @@
+﻿# Excluir archivos que generan nodos duplicados
+graphify-out/
+.obsidian/
+crear_actividades.py

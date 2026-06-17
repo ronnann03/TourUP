@@ -1,21 +1,21 @@
 {
   "communities": {
     "0": [
-      "act_charlas_y_ciclos_de_lectura_sobre_pensamiento_soci",
-      "act_miercoles_de_filmoteca_ciclo_nora_de_izcue",
-      "act_noche_mali_visitas_mediadas_y_actividades_especial",
-      "act_nueva_exposicion_en_sala_1_primer_piso",
-      "act_recorrido_virtual_en_visitavirtual_cultura_pe",
-      "act_recorridos_por_la_casa_museo_y_exposiciones_tempor",
-      "act_talleres_ligados_a_festividades_y_danzas_tradicion",
-      "act_talleres_visitas_guiadas_ferias_y_presentaciones_a",
-      "act_visitas_guiadas_a_coleccion_de_arte_italiano",
-      "act_visitas_guiadas_sobre_arte_popular_y_diversidad_cu",
-      "cercado_de_lima",
-      "mali",
-      "museo_de_arte_italiano",
-      "museo_jose_carlos_mariategui",
-      "museo_nacional_de_la_cultura_peruana"
+      "act_recorridos_guiados_y_talleres_de_ceramica_y_tejido",
+      "act_talleres_de_educacion_patrimonial_para_ninos_y_jov",
+      "act_talleres_para_familias_y_experiencias_sensoriales",
+      "act_tramas_andinas_ciencia_paisaje_arqueologia_y_saber",
+      "act_visitas_guiadas_a_salas_de_arqueologia",
+      "act_visitas_guiadas_por_el_complejo_inca",
+      "ate_vitarte",
+      "barranco",
+      "lima",
+      "lurin",
+      "mnaahp",
+      "museo_de_sitio_pachacamac",
+      "museo_de_sitio_puruchuco",
+      "peru",
+      "pueblo_libre"
     ],
     "1": [
       "act_80_anos_de_naciones_unidas",
@@ -50,58 +50,66 @@
       "tourup_home"
     ],
     "3": [
-      "act_experiencia_sonora_con_instrumentos_originales_de_",
-      "act_talleres_para_familias_y_experiencias_sensoriales",
-      "act_visitas_guiadas_a_salas_de_arqueologia",
-      "act_visitas_guiadas_al_complejo_arqueologico",
-      "barranco",
-      "lima",
-      "miraflores",
-      "mnaahp",
-      "museo_de_sitio_pucllana",
-      "peru",
-      "pueblo_libre"
+      "act_miercoles_de_filmoteca_ciclo_nora_de_izcue",
+      "act_noche_mali_visitas_mediadas_y_actividades_especial",
+      "act_nueva_exposicion_en_sala_1_primer_piso",
+      "act_recorrido_virtual_en_visitavirtual_cultura_pe",
+      "act_talleres_visitas_guiadas_ferias_y_presentaciones_a",
+      "act_visitas_guiadas_a_coleccion_de_arte_italiano",
+      "actividades_museo_de_arte_italiano",
+      "actividades_recorrido_virtual_italiano",
+      "actividades_visita_guiada_italiano",
+      "cercado_de_lima",
+      "mali",
+      "museo_de_arte_italiano"
     ],
     "4": [
+      "act_experiencia_sonora_con_instrumentos_originales_de_",
+      "act_visitas_guiadas_al_complejo_arqueologico",
+      "actividades_experiencia_sonora_pucllana",
+      "actividades_museo_de_sitio_pucllana",
+      "actividades_visita_guiada_pucllana",
+      "miraflores",
+      "museo_de_sitio_pucllana"
+    ],
+    "5": [
+      "act_charlas_y_ciclos_de_lectura_sobre_pensamiento_soci",
+      "act_recorridos_por_la_casa_museo_y_exposiciones_tempor",
+      "actividades_charla_mariategui",
+      "actividades_museo_jose_carlos_mariategui",
+      "actividades_recorrido_mariategui",
+      "museo_jose_carlos_mariategui"
+    ],
+    "6": [
+      "act_talleres_ligados_a_festividades_y_danzas_tradicion",
+      "act_visitas_guiadas_sobre_arte_popular_y_diversidad_cu",
+      "actividades_museo_nacional_de_la_cultura_peruana",
+      "actividades_taller_cultura_peruana",
+      "actividades_visita_guiada_cultura_peruana",
+      "museo_nacional_de_la_cultura_peruana"
+    ],
+    "7": [
       "act_contemporaneo_1_materia_alquimia_dispositivo_flujo",
       "act_el_peru_en_clave_caretas_75_anos_de_historia_fotog",
       "act_semana_de_la_educacion_artistica_2026",
       "act_unsex_me_la_deconstruccion_de_lady_macbeth",
       "mac_lima"
     ],
-    "5": [
+    "8": [
       "cercado_de_lima_cercado_de_lima",
       "mali_mali",
       "museo_de_arte_italiano_museo_de_arte_italiano",
       "museo_jose_carlos_mariategui_museo_jose_carlos_mariategui",
       "museo_nacional_de_la_cultura_peruana_museo_nacional_de_la_cultura_peruana"
     ],
-    "6": [
-      "act_recorridos_guiados_y_talleres_de_ceramica_y_tejido",
-      "act_tramas_andinas_ciencia_paisaje_arqueologia_y_saber",
-      "lurin",
-      "museo_de_sitio_pachacamac"
-    ],
-    "7": [
-      "act_talleres_de_educacion_patrimonial_para_ninos_y_jov",
-      "act_visitas_guiadas_por_el_complejo_inca",
-      "ate_vitarte",
-      "museo_de_sitio_puruchuco"
-    ],
-    "8": [
+    "9": [
       "agents_curator"
     ],
-    "9": [
+    "10": [
       "agents_qa"
     ],
-    "10": [
-      "agents_suggester"
-    ],
     "11": [
-      "crear_actividades"
-    ],
-    "12": [
-      "obsidian_app"
+      "agents_suggester"
     ]
   },
   "cohesion": {
@@ -109,15 +117,14 @@
     "1": 0.14285714285714285,
     "2": 0.15384615384615385,
     "3": 0.18181818181818182,
-    "4": 0.4,
-    "5": 0.4,
-    "6": 0.5,
-    "7": 0.5,
-    "8": 1.0,
+    "4": 0.3333333333333333,
+    "5": 0.3333333333333333,
+    "6": 0.3333333333333333,
+    "7": 0.4,
+    "8": 0.4,
     "9": 1.0,
     "10": 1.0,
-    "11": 1.0,
-    "12": 1.0
+    "11": 1.0
   },
   "gods": [
     {
@@ -136,12 +143,32 @@
       "degree": 7
     },
     {
-      "id": "cercado_de_lima_cercado_de_lima",
+      "id": "cercado_de_lima",
       "label": "Cercado de Lima",
-      "degree": 5
+      "degree": 6
     },
     {
-      "id": "cercado_de_lima",
+      "id": "museo_de_arte_italiano",
+      "label": "Museo de Arte Italiano",
+      "degree": 6
+    },
+    {
+      "id": "museo_jose_carlos_mariategui",
+      "label": "Museo Jose Carlos Mariategui",
+      "degree": 6
+    },
+    {
+      "id": "museo_nacional_de_la_cultura_peruana",
+      "label": "Museo Nacional de la Cultura Peruana",
+      "degree": 6
+    },
+    {
+      "id": "museo_de_sitio_pucllana",
+      "label": "Museo de Sitio Pucllana",
+      "degree": 6
+    },
+    {
+      "id": "cercado_de_lima_cercado_de_lima",
       "label": "Cercado de Lima",
       "degree": 5
     },
@@ -149,51 +176,9 @@
       "id": "mac_lima",
       "label": "MAC Lima",
       "degree": 5
-    },
-    {
-      "id": "mali",
-      "label": "MALI",
-      "degree": 5
-    },
-    {
-      "id": "miraflores_miraflores",
-      "label": "Miraflores",
-      "degree": 3
-    },
-    {
-      "id": "miraflores",
-      "label": "Miraflores",
-      "degree": 3
-    },
-    {
-      "id": "museo_de_sitio_puruchuco",
-      "label": "Museo de Sitio Puruchuco",
-      "degree": 3
     }
   ],
   "surprises": [
-    {
-      "source": "Ate Vitarte",
-      "target": "Lima",
-      "source_files": [
-        "wiki/Peru/Lima/Ate Vitarte/Museo de Sitio Puruchuco/Actividades.md",
-        "CLAUDE.md"
-      ],
-      "confidence": "EXTRACTED",
-      "relation": "references",
-      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Ate Vitarte` unexpectedly reaches hub `Lima`"
-    },
-    {
-      "source": "Lurin",
-      "target": "Lima",
-      "source_files": [
-        "wiki/Peru/Lima/Lurin/Museo de Sitio Pachacamac/Actividades.md",
-        "CLAUDE.md"
-      ],
-      "confidence": "EXTRACTED",
-      "relation": "references",
-      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Lurin` unexpectedly reaches hub `Lima`"
-    },
     {
       "source": "TourUP",
       "target": "Lima",
@@ -204,6 +189,17 @@
       "confidence": "EXTRACTED",
       "relation": "references",
       "why": "connects across different repos/directories; peripheral node `TourUP` unexpectedly reaches hub `Lima`"
+    },
+    {
+      "source": "Ate Vitarte",
+      "target": "Lima",
+      "source_files": [
+        "wiki/Peru/Lima/Ate Vitarte/Museo de Sitio Puruchuco/Actividades.md",
+        "CLAUDE.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; peripheral node `Ate Vitarte` unexpectedly reaches hub `Lima`"
     },
     {
       "source": "Barranco",
@@ -226,10 +222,21 @@
       "confidence": "EXTRACTED",
       "relation": "references",
       "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "Lurin",
+      "target": "Lima",
+      "source_files": [
+        "wiki/Peru/Lima/Lurin/Museo de Sitio Pachacamac/Actividades.md",
+        "CLAUDE.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; peripheral node `Lurin` unexpectedly reaches hub `Lima`"
     }
   ],
   "tokens": {
-    "input": 22214,
-    "output": 10407
+    "input": 2029,
+    "output": 4352
   }
 }
