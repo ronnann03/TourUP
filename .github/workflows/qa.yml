@@ -1,0 +1,50 @@
+name: QA TourUP
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  qa:
+    name: Validacion QA
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: QA 1 — Validar grafo (graph.json)
+        run: python qa/validate_graph.py
+
+      - name: QA 3 — Validar vault (frontmatter + campos)
+        run: python qa/validate_vault.py
+
+      - name: Resumen en job summary
+        if: always()
+        run: |
+          echo "## Resultados QA TourUP" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Check | Estado |" >> $GITHUB_STEP_SUMMARY
+          echo "|-------|--------|" >> $GITHUB_STEP_SUMMARY
+          python qa/validate_graph.py > /tmp/graph_out.txt 2>&1 && \
+            echo "| Grafo (graph.json) | ✅ OK |" >> $GITHUB_STEP_SUMMARY || \
+            echo "| Grafo (graph.json) | ❌ FALLO |" >> $GITHUB_STEP_SUMMARY
+          python qa/validate_vault.py > /tmp/vault_out.txt 2>&1 && \
+            echo "| Vault (frontmatter) | ✅ OK |" >> $GITHUB_STEP_SUMMARY || \
+            echo "| Vault (frontmatter) | ❌ FALLO |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Detalle Grafo" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          cat /tmp/graph_out.txt >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          echo "### Detalle Vault" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          cat /tmp/vault_out.txt >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
